@@ -2,7 +2,6 @@
 
 <!--
 **SwaroopKumarDasari/SwaroopKumarDasari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Swaroop's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwaroopKumarDasari)](https://github.com/SwaroopKumarDasari/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://github-readme-stats.vercel.app/api?username=SwaroopKumarDasari
